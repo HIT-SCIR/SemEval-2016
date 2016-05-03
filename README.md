@@ -8,11 +8,11 @@ Thanks to all participants!
 
 This task provides two distinguished corpora in appreciable quantity respectively in the domain of NEWS and TEXTBOOKS (from primary school textbooks).
 
- | NEWS | TEXTBOOKS
-----|------|----
-train | 8301 | 10754
-validation | 534 | 1535
-test | 1233 | 3073
+Set        | NEWS | TEXTBOOKS
+-----------|------|----------
+train      | 8301 | 10754
+validation | 534  | 1535
+test       | 1233 | 3073
 
 ## Systems
 
