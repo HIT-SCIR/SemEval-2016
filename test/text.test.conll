@@ -15962,7 +15962,7 @@
 1	你们	你们	PN	PN	_	4	Exp	_	_
 2	哪	哪	VV	VV	_	3	mTone	_	_
 3	学校	学校	NN	NN	_	4	Orig	_	_
-4	的	的	DEG	DEG	_	6	Root	_	_
+4	的	的	DEG	DEG	_	0	Root	_	_
 5	？	？	PU	PU	_	4	mPunc	_	_
 
 1	武松	武松	NR	NR	_	2	Agt	_	_
@@ -33342,7 +33342,7 @@
 
 1	“	“	PU	PU	_	3	mPunc	_	_
 2	北京	北京	NR	NR	_	3	Exp	_	_
-3	离	离	P	P	_	10	Root	_	_
+3	离	离	P	P	_	0	Root	_	_
 4	这儿	这儿	PN	PN	_	3	Lini	_	_
 5	很	很	AD	AD	_	6	mDegr	_	_
 6	远	远	VA	VA	_	3	Desc	_	_
@@ -38538,7 +38538,7 @@
 18	。	。	PU	PU	_	17	mPunc	_	_
 
 1	我	我	PN	PN	_	2	Agt	_	_
-2	打算	打算	VV	VV	_	6	Root	_	_
+2	打算	打算	VV	VV	_	0	Root	_	_
 3	去	去	VV	VV	_	2	dCont	_	_
 4	颐和园	颐和园	VV	VV	_	3	Lfin	_	_
 5	。	。	PU	PU	_	2	mPunc	_	_
