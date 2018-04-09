@@ -1,6 +1,6 @@
 # SemEval-2016 Task 9 Datasets
 
-For more information(in Chinese): http://alt.qcri.org/semeval2016/task9/
+For more information: http://alt.qcri.org/semeval2016/task9/
 
 Thanks to all participants!
 
