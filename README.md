@@ -1,4 +1,4 @@
-# SemEval-2016 Task 9 Datasets
+# SemEval-2016 Task 9 (Chinese Semantic Dependency Parsing) Datasets
 
 For more information: http://alt.qcri.org/semeval2016/task9/
 
